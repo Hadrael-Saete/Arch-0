@@ -1,0 +1,16 @@
+{
+  "name": "arch-0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "zustand": "^5.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  },
+  "private": true
+}
